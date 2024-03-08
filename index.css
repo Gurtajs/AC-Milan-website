@@ -10,6 +10,7 @@ body {
 p {
     padding-right: 400px;
     font-size: 20px;
+    min-width: 300px;
 }
 #logo {
     height: 250px;
